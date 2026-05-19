@@ -1,1 +1,1 @@
-# Common-Source-MOS-Amplifier-
+# Common-Source-MOS-Amplifier
