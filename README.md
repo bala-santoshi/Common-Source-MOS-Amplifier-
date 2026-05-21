@@ -6,6 +6,8 @@
 Designed and stimulated a MOSFET common source amplifier using LTspice to analyse voltage amplification behavior.
 
 
+
+
 ## Concepts used
 - MOSFET Amplification
 - Analog CMOS fundamentals
@@ -15,7 +17,8 @@ Designed and stimulated a MOSFET common source amplifier using LTspice to analys
 
 
 ## Circuit Schematic 
-![circuit](common_source_circuit.png)
+![circuit](common_source_amplifier_circuit.png)
+
 
 
 
@@ -25,9 +28,13 @@ Designed and stimulated a MOSFET common source amplifier using LTspice to analys
 
 
 
+
 ## Results
 Observed amplified output signal with phase inversion characteristic of common source amplifier.
 
 
+
+
 ## Tools used
-_ LTspice
+
+- LTspice
