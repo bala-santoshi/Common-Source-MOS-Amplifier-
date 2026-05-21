@@ -24,7 +24,7 @@ Designed and stimulated a MOSFET common source amplifier using LTspice to analys
 
 ## Output Waveforms
 
-![Waveform](common_source_amplifier_circuit.png)
+![Waveform](common_source_amplifier_waveform.png)
 
 
 
